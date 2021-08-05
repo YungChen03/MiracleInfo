@@ -34,10 +34,11 @@ export default {};
   background-color: white;
   display: flex;
   justify-content: space-around;
+  align-items: center;
   width: 100%;
-  height: 10vh;
+  height: 7vh;
   border-top: 1px solid #ddd;
-
+  transform: translateY(-8px) translateX(-8px);
   button {
     border: 0;
     background-color: white;
